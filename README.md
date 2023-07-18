@@ -4,7 +4,7 @@
 - 📫 How to reach me:-
      - Discord - chirath
      - Email - chirathtimodh@gmail.com
-     - LinkedIn - Chirath Rajapsksha
+     - LinkedIn - Chirath Rajapaksha
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duesacrifice69&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
 
