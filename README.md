@@ -7,7 +7,7 @@
 - 👀 I’m interested in Software Development & Web Development
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me:-
-     - Discord - chirath
+     - Discord - [chirath](https://discord.com/users/771639970854731808)
      - Email - chirathtimodh@gmail.com
      - LinkedIn - Chirath Rajapaksha
 
