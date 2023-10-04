@@ -15,10 +15,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duesacrifice69&layout=compact&show_icons=true&theme=radical)
 
+[![wakatime](https://wakatime.com/badge/user/018af927-df27-43d7-8f57-d7829ded732a.svg)](https://wakatime.com/@DueSacrifice69)
+
+[![github-views](https://komarev.com/ghpvc/?username=duesacrifice69)](https://github.com/duesacrifice69)
+
+<br/>
+
 
 ## 📜 Other:
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/771639970854731808)](https://discord.com/users/771639970854731808)
-
-[![github-views](https://komarev.com/ghpvc/?username=duesacrifice69&style=for-the-badge)](https://github.com/duesacrifice69)
