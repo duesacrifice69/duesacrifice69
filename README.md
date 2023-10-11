@@ -17,7 +17,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/018af927-df27-43d7-8f57-d7829ded732a.svg)](https://wakatime.com/@DueSacrifice69)
 
-[![github-views](https://komarev.com/ghpvc/?username=duesacrifice69)](https://github.com/duesacrifice69)
+[![github-views](https://komarev.com/ghpvc/?username=duesacrifice69&style=for-the-badge)](https://github.com/duesacrifice69)
 
 <br/>
 
