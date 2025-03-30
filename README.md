@@ -1,7 +1,7 @@
 ![mi perfil](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0094dc&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Chirath+Timodh%2C+IT+Student+from+SriLanka+%F0%9F%98%83;)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0094dc&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Chirath+Timodh%2C+IT+Student+from+Sri+Lanka+%F0%9F%98%83;)
 <hr>
 
 ![](https://komarev.com/ghpvc/?username=duesacrifice69&color=042e57)
